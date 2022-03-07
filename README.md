@@ -7,8 +7,8 @@
 [![website](./img/globe-light.svg)](https://parisahakimi.com/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://parisahakimi.com/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](www.linkedin.com/in/parisa-hakimi/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/parisa-hakimi/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](www.linkedin.com/in/parisa-hakimi#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/parisa-hakimi#gh-dark-mode-only)
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
