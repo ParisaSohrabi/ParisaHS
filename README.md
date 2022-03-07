@@ -1,4 +1,4 @@
-# Hi there, I'm Parisa 👋 
+# Hi there, I'm Parisa 
 ## :woman_technologist: I'm a FrontEnd Web Developer!
 - 🌱 I’m currently working on some React projeccts
 - 👯 I’m looking to collaborate with other content creators
