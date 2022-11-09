@@ -1,8 +1,7 @@
 # Hi there, I'm Parisa 
-## :woman_technologist: I'm a FrontEnd Web Developer!
+## :woman_technologist: I'm a Full Stack Web Developer!
 - 🌱 I’m currently working on some React projeccts
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Work on more react projects and learn more about web3
+- 🤝 I’m looking to collaborate with other content creators
 ### Connect with me:
 [![website](./img/globe-light.svg)](https://parisahakimi.netlify.app//#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://parisahakimi.netlify.app//#gh-dark-mode-only)
