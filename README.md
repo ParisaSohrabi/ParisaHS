@@ -3,11 +3,11 @@
 - 🌱 I’m currently working on some React projeccts
 - 🤝 I’m looking to collaborate with other content creators
 ### Connect with me:
-[![website](./img/globe-light.svg)](https://parisahakimi.netlify.app//#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://parisahakimi.netlify.app//#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://parisahs.netlify.app/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://parisahs.netlify.app/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/parisa-hakimi/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/parisa-hakimi/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/parisa-sohrabi/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/parisa-sohrabi/#gh-dark-mode-only)
 ### Languages and Tools:
 <p align="left">
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
